@@ -2,24 +2,24 @@ body {
   margin: 0;
   /* height: 2692.95px; */
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 }
 
 h1 {
-  font-family: 'Sacramento', cursive;
-  color: #1A374D;
+  font-family: "Sacramento", cursive;
+  color: #1a374d;
 }
 
 h2 {
-  color: #1A374D;
-  font-family: 'Montserrat', sans-serif;
+  color: #1a374d;
+  font-family: "Montserrat", sans-serif;
   font-weight: normal;
   font-size: 40px;
 }
 
 h3 {
   color: #406882;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .dotted {
@@ -28,20 +28,20 @@ h3 {
   opacity: 1;
   border-style: none;
   border-top: dotted;
-  border-color: #B1D0E0;
+  border-color: #b1d0e0;
   border-width: 5px;
   width: 5%;
   padding-top: 50px;
 }
 
 p {
-  color: #40514E;
+  color: #40514e;
   line-height: 2;
   font-size: 1.2rem;
 }
 
 .top-container {
-  background-color: #B1D0E0;
+  background-color: #b1d0e0;
   position: relative;
   margin: 0;
   padding-top: 128px;
@@ -72,7 +72,7 @@ p {
 }
 
 .bottom-container {
-  background-color: #B1D0E0;
+  background-color: #b1d0e0;
   position: relative;
   margin: 50px auto 0 auto;
   padding: 40px 0 20px 0;
@@ -119,7 +119,7 @@ p {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -133,7 +133,7 @@ p {
 
 .footer-link {
   color: #406882;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   margin: 10px 20px;
   text-decoration: none;
